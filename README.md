@@ -1,1 +1,1 @@
-# dictionary-implementation-haskell
+# Dictionary Implementation in Haskell
